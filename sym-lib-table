@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "dk_Digital-Isolators")(type "Legacy")(uri "${KIPRJMOD}/lib/dk_Digital-Isolators.lib")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/lib/teensy.lib")(options "")(descr ""))
+)
