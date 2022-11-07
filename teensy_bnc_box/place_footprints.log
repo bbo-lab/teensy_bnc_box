@@ -1,0 +1,33 @@
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'linux'
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0]'
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: 6.0.2+dfsg-1
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.3
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7fd678ca4790>
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP102 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP101 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J105 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J102 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U104 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C106 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U102 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C101 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J103 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C107 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C103 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C102 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J104 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C110 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C109 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C105 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C104 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U103 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U101 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J101 on root level
+11-03 09:29:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C108 on root level
+11-03 09:29:04 com_github_MitjaNemec_PlaceFootprints.place_footprints 176:constructing a list of sheets suitable for replication on level:'Port1', file:'port.kicad_sch'
+11-03 09:29:04 com_github_MitjaNemec_PlaceFootprints.place_footprints 211:suitable sheets are:[['Port2'], ['Port3'], ['Port4']]
+11-03 09:29:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 458:Footprints to place: ['R203', 'R403', 'R303', 'R503']
+11-03 09:29:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 296:Starting placing with linear layout
+11-03 09:29:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 504:Placing complete
+11-03 09:29:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 505:Sorted_footprints: ['R203', 'R303', 'R403', 'R503']
